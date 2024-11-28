@@ -8,3 +8,10 @@
     display: block;
     opacity: 1;
 }
+
+button.spoiler-block-icon.spoiler-block-icon-zoom-in.spoiler_block_show {
+    border: 1px solid lightblue;
+    border-radius: 8px;
+    padding: 4px;
+    box-shadow: 1px 1px lightblue;
+}

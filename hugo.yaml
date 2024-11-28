@@ -1,4 +1,4 @@
-baseURL: "https://digital-cafe-karlsruhe.flutter-explained.dev/"
+baseURL: "https://digital-cafe-karlsruhe.web.app/"
 title: Digitalcafé
 theme: PaperMod
 
@@ -18,6 +18,11 @@ languages:
     languageDirection: ltr
     languageName: Deutsch
     weight: 1
+    menu:
+      main:
+        - name: Termine
+          url: termine
+          weight: 5
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -78,7 +83,7 @@ params:
   homeInfoParams:
     Title: "Digitalcafé Karlsruhe"
     Content: >
-      Hallo, ich bin Max und leite das Digitalcafé Karlsruhe. Hier unterstütze ich euch dabei, den digitalen Alltag besser zu verstehen und zu meistern.
+      Hallo, ich bin Max und leite das Digitalcafé Karlsruhe in Zusammenarbeit mit der [Diakonie Karlsruhe](https://www.dw-karlsruhe.de/). Hier unterstütze ich euch dabei, den digitalen Alltag besser zu verstehen und zu meistern.
        Normalerweise biete ich meine Workshops und Hilfestellungen in *Durlach-Aue* und Oberreut an. Mit dieser Webseite möchte ich euch die wichtigsten Informationen nun auch online zur Verfügung stellen – einfach, übersichtlich und jederzeit zugänglich.
 
       -
@@ -95,7 +100,7 @@ params:
     hiddenInSingle: true
 
   editPost:
-    URL: "https://github.com/md-weber/digital-cafe-karlsruhe/content"
+    URL: "https://github.com/md-weber/digital-cafe-karlsruhe/issues"
     Text: "Ideen oder Anmerkungen?"
     appendFilePath: true
 

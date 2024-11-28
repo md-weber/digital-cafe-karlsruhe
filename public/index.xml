@@ -2,23 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Digitalcafé</title>
-    <link>http://localhost:1313/</link>
+    <link>https://digital-cafe-karlsruhe.web.app/</link>
     <description>Recent content on Digitalcafé</description>
     <image>
       <title>Digitalcafé</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://digital-cafe-karlsruhe.web.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://digital-cafe-karlsruhe.web.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.136.2</generator>
     <language>de-DE</language>
     <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://digital-cafe-karlsruhe.web.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Was sind Accounts und wie funktionieren sie?</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://digital-cafe-karlsruhe.web.app/posts/wofuer-gibt-es-accounts/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>https://digital-cafe-karlsruhe.web.app/posts/wofuer-gibt-es-accounts/</guid>
       <description>In diesem Artikel geht es um Accounts</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://digital-cafe-karlsruhe.web.app/termine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://digital-cafe-karlsruhe.web.app/termine/</guid>
+      <description>&lt;h1 id=&#34;nächste-termine-im-digitalcafé-karlsruhe&#34;&gt;Nächste Termine im Digitalcafé Karlsruhe&lt;/h1&gt;
+&lt;p&gt;Hier findest du alle aktuellen Termine. Schau vorbei – wir freuen uns auf dich!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-digitalcafé-in-oberreut&#34;&gt;📅 &lt;strong&gt;Digitalcafé in Oberreut&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Datum:&lt;/strong&gt; 11. Dezember 2024&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Zeit:&lt;/strong&gt; 10:00 - 12:00 Uhr&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ort:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://osm.org/go/0DPuTYSuE?way=99627064&#34;&gt;Ökumenisches Gemeindezentrum,&lt;br&gt;
+Bernhard-Lichtenberg-Str. 46-48,&lt;br&gt;
+76189 Karlsruhe&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-digitalcafé-in-durlach-aue&#34;&gt;📅 &lt;strong&gt;Digitalcafé in Durlach-Aue&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Datum:&lt;/strong&gt; 12. Dezember 2024&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Zeit:&lt;/strong&gt; 10:00 - 11:00 Uhr&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ort:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://osm.org/go/0DlEXirTD?way=118426425&#34;&gt;Luther-Melanchthon,&lt;br&gt;
+Bilfinger Str. 5,&lt;br&gt;
+76227 Karlsruhe&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Hinweis:&lt;/strong&gt; Alle Termine sind kostenlos, wir freuen uns über jeden der mehr über Digitale Themen erfahren möchte.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Datenschutzrichtlinie</title>
+      <link>https://digital-cafe-karlsruhe.web.app/datenschutzrichtlinie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://digital-cafe-karlsruhe.web.app/datenschutzrichtlinie/</guid>
+      <description>&lt;h2 id=&#34;1-einführung&#34;&gt;1. Einführung&lt;/h2&gt;
+&lt;p&gt;Willkommen auf flutter-explained.dev (die „Website“). Wir verpflichten uns, Ihre persönlichen Daten zu schützen und Ihre Privatsphäre zu respektieren. Diese Richtlinie erklärt, wie wir Ihre persönlichen Informationen sammeln, verwenden und schützen, wenn Sie unsere Website besuchen.&lt;/p&gt;
+&lt;h2 id=&#34;2-verantwortlicher-für-die-datenverarbeitung&#34;&gt;2. Verantwortlicher für die Datenverarbeitung&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Max Weber&lt;/strong&gt;
+Wilhelm-Leuschner-Str. 54 &lt;br&gt;
+76189 Karlsruhe &lt;br&gt;
+Deutschland &lt;br&gt;
+E-Mail: &lt;a href=&#34;mailto:privacy@flutter-explained.dev&#34;&gt;privacy@flutter-explained.dev&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;3-arten-der-gesammelten-daten&#34;&gt;3. Arten der gesammelten Daten&lt;/h2&gt;
+&lt;h3 id=&#34;31-persönliche-daten&#34;&gt;3.1 Persönliche Daten&lt;/h3&gt;
+&lt;p&gt;Wir können persönliche Daten erfassen, die Sie uns freiwillig zur Verfügung stellen, wenn Sie:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>https://digital-cafe-karlsruhe.web.app/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://digital-cafe-karlsruhe.web.app/impressum/</guid>
+      <description>&lt;h2 id=&#34;angaben-gemäß--5-tmg&#34;&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Max Weber&lt;/strong&gt;
+Wilhelm-Leuschner-Str. 54
+76189 Karlsruhe&lt;/p&gt;
+&lt;h3 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h3&gt;
+&lt;p&gt;E-Mail: &lt;a href=&#34;mailto:info@flutter-explained.dev&#34;&gt;info@flutter-explained.dev&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;verantwortlich-für-den-inhalt-nach--55-abs-2-rstv&#34;&gt;Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Max Weber&lt;/strong&gt;
+Wilhelm-Leuschner-Str. 54
+76189 Karlsruhe&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hinweis:&lt;/strong&gt; Dies ist eine privat betriebene Website.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;haftungsausschluss&#34;&gt;Haftungsausschluss&lt;/h2&gt;
+&lt;h3 id=&#34;haftung-für-inhalte&#34;&gt;Haftung für Inhalte&lt;/h3&gt;
+&lt;p&gt;Als Diensteanbieter sind wir gemäß § 7 Abs. 1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

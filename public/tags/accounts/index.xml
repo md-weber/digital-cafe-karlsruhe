@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Accounts on Digitalcafé</title>
-    <link>http://localhost:1313/tags/accounts/</link>
+    <link>https://digital-cafe-karlsruhe.web.app/tags/accounts/</link>
     <description>Recent content in Accounts on Digitalcafé</description>
     <image>
       <title>Digitalcafé</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://digital-cafe-karlsruhe.web.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://digital-cafe-karlsruhe.web.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.136.2</generator>
     <language>de-DE</language>
     <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/accounts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://digital-cafe-karlsruhe.web.app/tags/accounts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Was sind Accounts und wie funktionieren sie?</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://digital-cafe-karlsruhe.web.app/posts/wofuer-gibt-es-accounts/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>https://digital-cafe-karlsruhe.web.app/posts/wofuer-gibt-es-accounts/</guid>
       <description>In diesem Artikel geht es um Accounts</description>
     </item>
   </channel>

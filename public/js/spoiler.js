@@ -10,7 +10,6 @@ document.addEventListener("DOMContentLoaded", function () {
     showButton.addEventListener("click", function (e) {
       content.classList.add("show");
       showButton.style.display = "none";
-      hideButton.style.display = "inline";
       // Update ARIA attributes if used
     });
   });
