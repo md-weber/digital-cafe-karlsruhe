@@ -1,0 +1,119 @@
+baseURL: "https://digital-cafe-karlsruhe.flutter-explained.dev/"
+title: Digitalcafé
+theme: PaperMod
+
+defaultContentLanguage: de
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  de:
+    languageCode: de-DE
+    languageDirection: ltr
+    languageName: Deutsch
+    weight: 1
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Digitalcafé Karlsruhe
+  description: "Willkommen beim Digitalcafé Karlsruhe, hier erfahrt ihr Neuigkeiten über das Digitalcafé"
+  keywords: [Blog, Portfolio, Digitalcafé]
+  author: Max Weber
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Digitalcafé Karlsruhe"
+    Content: >
+      Hallo, ich bin Max und leite das Digitalcafé Karlsruhe. Hier unterstütze ich euch dabei, den digitalen Alltag besser zu verstehen und zu meistern.
+       Normalerweise biete ich meine Workshops und Hilfestellungen in *Durlach-Aue* und Oberreut an. Mit dieser Webseite möchte ich euch die wichtigsten Informationen nun auch online zur Verfügung stellen – einfach, übersichtlich und jederzeit zugänglich.
+
+      -
+
+      - Ich hoffe, die Inhalte sind hilfreich für euch. Viel Spaß beim Stöbern, und zögert nicht, euch bei Fragen oder Anregungen zu melden!
+
+  socialIcons:
+    - name: Bluesky
+      url: "https://bsky.app/profile/md-weber.bsky.social"
+
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+
+  editPost:
+    URL: "https://github.com/md-weber/digital-cafe-karlsruhe/content"
+    Text: "Ideen oder Anmerkungen?"
+    appendFilePath: true
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai

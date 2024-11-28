@@ -1,0 +1,25 @@
+<div class="spoiler panel panel-default">
+    <div class="spoiler_block">
+        <!-- Optional header -->
+        {{ if (.Get "text") }}
+        <h4 class="spoiler_block_head">
+            {{ with .Get "text" }}{{ . | safeHTML }}{{ else }}&nbsp;{{ end }}
+        </h4>
+        {{ end }}
+
+        <!-- "Click to show" button -->
+        <button
+            type="button"
+            class="spoiler-block-icon spoiler-block-icon-zoom-in spoiler_block_show"
+        >
+            Klicke hier um die Antwort zu zeigen
+        </button>
+
+        <!-- "Click to hide" button, hidden by default -->
+
+        <!-- Hidden content -->
+        <div class="spoiler_block_content">
+            <p>{{ .Inner }}</p>
+        </div>
+    </div>
+</div>
